@@ -76,8 +76,8 @@ def q_learning(env,
 
 
 ### Plot comparing the state value functions of Monte Carlo method and Qlearning
-<img width="1725" height="777" alt="image" src="https://github.com/user-attachments/assets/f947fec8-8552-4601-a1f0-00197553c4ea" />
-<img width="1725" height="777" alt="image" src="https://github.com/user-attachments/assets/97775398-f82e-4e73-97cc-fb63987d8e14" />
+<img width="1674" height="598" alt="image" src="https://github.com/user-attachments/assets/cbf1f141-6e67-4088-adef-50af05a27e75" />
+<img width="1674" height="583" alt="image" src="https://github.com/user-attachments/assets/b089059c-b1bc-4ca0-8498-2ef5cb2aa336" />
 
 
 ## RESULT:
